@@ -1,0 +1,21 @@
+总用量 76
+-rw-r--r-- 1 akaedu akaedu 1021 2013-08-17 20:40 \
+-rw-r--r-- 1 akaedu akaedu  500 2013-08-17 13:13 11.c
+-rw-r--r-- 1 akaedu akaedu   23 2013-08-17 17:06 abc
+-rwxr-xr-x 1 akaedu akaedu 7531 2013-08-19 09:01 a.out
+-rw-r--r-- 1 akaedu akaedu  126 2013-08-17 16:26 BUFFSIZ.c
+-rw-r--r-- 1 akaedu akaedu  522 2013-08-17 19:36 cp2.c
+-rw-r--r-- 1 akaedu akaedu  514 2013-08-17 15:14 cp3.c
+-rw-r--r-- 1 akaedu akaedu  480 2013-08-17 12:14 cp.c
+-rw-r--r-- 1 akaedu akaedu  676 2013-08-17 11:19 fgetc.c
+-rw-r--r-- 1 akaedu akaedu  405 2013-08-17 16:40 FILE.c
+-rw-r--r-- 1 akaedu akaedu  620 2013-08-17 10:42 fopen.c
+-rw-r--r-- 1 akaedu akaedu  411 2013-08-17 16:10 fread.c
+-rw-r--r-- 1 akaedu akaedu 1071 2013-08-17 15:58 fseek.c
+-rw-r--r-- 1 akaedu akaedu  481 2013-08-17 16:43 hell.c
+-rw-r--r-- 1 akaedu akaedu  641 2013-08-17 11:11 perror.c
+-rw-r--r-- 1 akaedu akaedu    0 2013-08-19 08:47 she
+-rw-r--r-- 1 akaedu akaedu  922 2013-08-19 09:01 she_like.c
+-rw-r--r-- 1 akaedu akaedu  590 2013-08-17 11:06 strerror.c
+-rw-r--r-- 1 akaedu akaedu  647 2013-08-17 13:37 struct.c
+-rw-r--r-- 1 akaedu akaedu    0 2013-08-19 11:06 text2

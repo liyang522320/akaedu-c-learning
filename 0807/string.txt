@@ -1,0 +1,22 @@
+string(3)                                                                               string(3)
+
+
+
+NAME
+       string -
+
+SYNOPSIS
+   Defines
+       #define _GLIBCXX_STRING
+
+Detailed Description
+       This is a Standard C++ Library header.
+
+       Definition in file string.
+
+Author
+       Generated automatically by Doxygen for libstdc++ from the source code.
+
+
+
+libstdc++                                  21 Apr 2009                                  string(3)
