@@ -6,4 +6,7 @@ my c code in akaedu learning
 ###
 ***
 学习
-
+*
+##Git命令
+* git push
+* git pull
